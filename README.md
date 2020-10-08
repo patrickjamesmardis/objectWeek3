@@ -1,4 +1,4 @@
-# Week 2 | Digital Output
+# Week 3 | Digital Output
 
 **[process.patrickjam.es/](https://process.patrickjam.es/2020/09/15/week-3-digital-output/)**
 
