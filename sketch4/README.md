@@ -3,7 +3,7 @@
 **[process.patrickjam.es/](https://process.patrickjam.es/2020/09/15/week-3-digital-output/)**
 
 ![sketch4 breadboard](/documentationAssets/sketch4_bb.png)
-![sketch4 video](/documentationAssets/sketch4.mp4)
+![sketch4 video](/documentationAssets/sketch4.gif)
 
 ```c++
 void setup() {
