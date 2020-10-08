@@ -2,8 +2,6 @@
 
 **[process.patrickjam.es/](https://process.patrickjam.es/2020/09/15/week-3-digital-output/)**
 
-![sketch2 breadboard](/documentationAssets/sketch2_bb.png)
-![sketch2 video](/documentationAssets/sketch2.gif)
 
 ```c++
 void setup() {
@@ -33,3 +31,7 @@ void loop() {
 }
 
 ```
+
+
+![sketch2 breadboard](/documentationAssets/sketch2_bb.png)
+![sketch2 video](/documentationAssets/sketch2.gif)

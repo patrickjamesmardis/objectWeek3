@@ -2,9 +2,6 @@
 
 **[process.patrickjam.es/](https://process.patrickjam.es/2020/09/15/week-3-digital-output/)**
 
-![sketch4 breadboard](/documentationAssets/sketch4_bb.png)
-![sketch4 video](/documentationAssets/sketch4.gif)
-
 ```c++
 void setup() {
   pinMode(13, OUTPUT);
@@ -19,3 +16,6 @@ void loop() {
   delay(1000);
 }
 ```
+
+![sketch4 breadboard](/documentationAssets/sketch4_bb.png)
+![sketch4 video](/documentationAssets/sketch4.gif)
